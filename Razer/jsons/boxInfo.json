@@ -1,0 +1,86 @@
+[
+    {
+        "bold":"FREQUENCY RESPONSE",
+        "gray":"12 Hz – 28 kHz"
+    },
+    {
+        "bold":"IMPEDANCE",
+        "gray":"32 Ω (1 kHz)"
+    },
+    {
+        "bold":"SENSITIVITY",
+        "gray":"100 dBSPL/mW, 1 kHz"
+    },
+    {
+        "bold":"DRIVER SIZE - DIAMETERS (MM)",
+        "gray":"50 mm"
+    },
+    {
+        "bold":"DRIVER TYPE",
+        "gray":"Razer™ TriForce Titanium"
+    },
+    {
+        "bold":"EARCUPS",
+        "gray":"Breathable memory foam cushions"
+    },
+    {
+        "bold":"INNER EARCUP DIAMETER",
+        "gray":" 2.56 x 1.57 "
+    },
+    {
+        "bold":"EARPADS MATERIAL",
+        "gray":"Ultra-soft FlowKnit memory foam"
+    },
+    {
+        "bold":"NOISE CANCELLING",
+        "gray":"Advanced passive noise cancellation"
+    },
+    {
+        "bold":"CONNECTION TYPE",
+        "gray":"Analog 3.5mm with USB sound card"
+    },
+    {
+        "bold":"CABLE LENGTH",
+        "gray":"1.8 m / 5.91 ft."
+    },
+    {
+        "bold":"APPROXIMATE WEIGHT",
+        "gray":"0.6 lbs / 262 g"
+    },
+    {
+        "bold":"MICROPHONE STYLE",
+        "gray":"Razer™ HyperClear Cardioid Mic"
+    },
+    {
+        "bold":"PICK-UP PATTERN",
+        "gray":"Unidirectional"
+    },
+    {
+        "bold":"MICROPHONE FREQUENCY RESPONSE",
+        "gray":"100 Hz – 10 kHz"
+    },
+    {
+        "bold":"MICROPHONE SENSITIVITY (@1KHZ)",
+        "gray":"-42 dB V/Pa, 1 kHz"
+    },
+    {
+        "bold":"VIRTUAL SURROUND ENCODING",
+        "gray":"THX Spatial Audio"
+    },
+    {
+        "bold":"VOLUME CONTROL",
+        "gray":"On-earcup: Volume Up/ Down"
+    },
+    {
+        "bold":"OTHER CONTROLS",
+        "gray":"On-earcup controls - Mic mute on/off toggle"
+    },
+    {
+        "bold":"BATTERY LIFE",
+        "gray":"NA"
+    },
+    {
+        "bold":"LIGHTING",
+        "gray":"NA"
+    }
+]

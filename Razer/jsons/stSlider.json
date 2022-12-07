@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "whiteBtn":"Audio",
+        "blueBtn":"-50% off",
+        "img":"../img/st1.png",
+        "rateLeft":"4.5",
+        "rateRight":"556 reviews",
+        "h4Name":"Razer BlackShark V2 CouRageJD Edition",
+        "priceTop":"54.99",
+        "priceBottom":"$109.99"
+    },
+    {
+        "id": 2,
+        "whiteBtn":"Laptop",
+        "blueBtn":"-8% off",
+        "img":"../img/st2.png",
+        "rateLeft":"4.7",
+        "rateRight":"287 reviews",
+        "h4Name":"Razer Blade 15 Base Model - QHD 165Hz - GeForce RTX 3070 - Black",
+        "priceTop":"2099.99",
+        "priceBottom":"$2,299.99"
+    },
+    {
+        "id": 3,
+        "whiteBtn":"console",
+        "blueBtn":"-45% OFF",
+        "img":"../img/st3.png",
+        "rateLeft":"4.2",
+        "rateRight":"1021 reviews",
+        "h4Name":"Razer Kishi for Android (Xbox)",
+        "priceTop":"54.99",
+        "priceBottom":"$99.99"
+    },
+    {
+        "id": 4,
+        "whiteBtn":"CHAir",
+        "blueBtn":"-10% OFF",
+        "img":"../img/st4.png",
+        "rateLeft":"4.9",
+        "rateRight":"451 reviews",
+        "h4Name":"Razer Iskur - Black / Green - XL",
+        "priceTop":"536.99",
+        "priceBottom":"$599.00"
+    },
+    {
+        "id": 5,
+        "whiteBtn":"Audio",
+        "blueBtn":"-50% off",
+        "img":"../img/st1.png",
+        "rateLeft":"4.5",
+        "rateRight":"556 reviews",
+        "h4Name":"Razer BlackShark V2 CouRageJD Edition",
+        "priceTop":"54.99",
+        "priceBottom":"$109.99"
+    },
+    {
+        "id": 6,
+        "whiteBtn":"Laptop",
+        "blueBtn":"-8% off",
+        "img":"../img/st2.png",
+        "rateLeft":"4.7",
+        "rateRight":"287 reviews",
+        "h4Name":"Razer Blade 15 Base Model - QHD 165Hz - GeForce RTX 3070 - Black",
+        "priceTop":"2099.99",
+        "priceBottom":"$2,299.99"
+    },
+    {
+        "id": 7,
+        "whiteBtn":"console",
+        "blueBtn":"-45% OFF",
+        "img":"../img/st3.png",
+        "rateLeft":"4.2",
+        "rateRight":"1021 reviews",
+        "h4Name":"Razer Kishi for Android (Xbox)",
+        "priceTop":"54.99",
+        "priceBottom":"$99.99"
+    },
+    {
+        "id": 8,
+        "whiteBtn":"CHAir",
+        "blueBtn":"-10% OFF",
+        "img":"../img/st4.png",
+        "rateLeft":"4.9",
+        "rateRight":"451 reviews",
+        "h4Name":"Razer Iskur - Black / Green - XL",
+        "priceTop":"536.99",
+        "priceBottom":"$599.00"
+    }
+
+]

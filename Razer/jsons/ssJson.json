@@ -1,0 +1,45 @@
+[
+    {
+        "img":"../img/ss1.png",
+        "h4":"RAZERSTORE SAN DIEGO",
+        "p":"4373 La Jolla Village Dr #G2,San Diego, CA 92122"
+        
+        
+    },
+    {
+        "img":"../img/ss2.png",
+        "h4":"RAZERSTORE NEW JERSEY",
+        "p":"One Garden State Plaza 1 Garden State Plaza – Space 2128 Paramus, NJ 07652"
+        
+        
+    },
+    {
+        "img":"../img/ss3.png",
+        "h4":"RAZERSTORE AUSTIN",
+        "p":"The Domain 11401 Century Oaks Terrace​ Austin, TX 78758"
+        
+        
+    },
+    {
+        "img":"../img/ss4.png",
+        "h4":"RAZERSTORE SAN FRANCISCO",
+        "p":"Westfield San Francisco Centre, Shop 136 865 Market Street San Francisco,CA 94103"
+        
+        
+    },
+    {
+        "img":"../img/ss5.png",
+        "h4":"RAZERSTORE SEATTLE",
+        "p":"University Village Space #C70 2616 NE 46th St.Seattle, WA 98105"
+        
+        
+    },
+    {
+        "img":"../img/ss6.png",
+        "h4":"RAZERSTORE LAS VEGAS",
+        "p":"The Linq Promenade 3545 S. Las Vegas Blvd. L-27,Las Vegas,​ NV 89109"
+        
+        
+    }
+]
+
